@@ -1,6 +1,8 @@
 MailHog [ ![Download](https://img.shields.io/github/release/mailhog/MailHog.svg) ](https://github.com/mailhog/MailHog/releases/tag/v1.0.0) [![GoDoc](https://godoc.org/github.com/mailhog/MailHog?status.svg)](https://godoc.org/github.com/mailhog/MailHog) [![Build Status](https://travis-ci.org/mailhog/MailHog.svg?branch=master)](https://travis-ci.org/mailhog/MailHog)
 =========
 
+**ARCHIVED: DDEV is moving to Mailpit**
+
 Inspired by [MailCatcher](http://mailcatcher.me/), easier to install.
 
 * Download and run MailHog
